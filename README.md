@@ -1,6 +1,8 @@
-# my-qq-robot
+# My QQ Robot
 
 本项目参考 GOLANG SDK 实现 QQ 频道机器人，包含打卡和讲笑话功能 ～😊～
+
+为了更好的观感，建议访问 👉 **[My QQ Robot](https://lfool.github.io/my-qq-robot/)**
 
 ### 使用方法
 
@@ -8,4 +10,8 @@
 
 执行`go run main.go`运行项目
 
-**注意**：申请机器人步骤可见 👉 **[QQ 机器人](https://bot.q.qq.com/wiki/)**
+**<font color='red'>注意</font>**：申请机器人步骤可见 👉 **[QQ 机器人](https://bot.q.qq.com/wiki/)**
+
+### 使用说明文档
+
+👉 **[使用说明文档](./doc/使用说明文档.md)**
